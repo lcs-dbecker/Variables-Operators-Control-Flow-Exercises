@@ -81,7 +81,7 @@ print("since they can't be changed they have an assigned value")
  
  */
 // Answer Question 5 below
-
+let randomDemand = 1_000_000
 /*:
  ### Question 6
  
