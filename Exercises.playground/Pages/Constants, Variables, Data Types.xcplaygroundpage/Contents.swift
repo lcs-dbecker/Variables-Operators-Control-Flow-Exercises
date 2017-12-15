@@ -50,7 +50,8 @@ let studentGrade = "90"
  
  */
 // Answer Question 2 below
-
+print("myAge")
+"myAge" = 15
 
 /*:
  ### Question 3
@@ -59,7 +60,7 @@ let studentGrade = "90"
  */
 // Answer Question 3 below
 
-
+var = personFavouriteHobby
 /*:
  ### Question 4
  
@@ -69,6 +70,7 @@ let studentGrade = "90"
  */
 // Answer Question 4 below
 
+print("since they can't be changed they have an assigned value")
 
 /*:
  ### Question 5
