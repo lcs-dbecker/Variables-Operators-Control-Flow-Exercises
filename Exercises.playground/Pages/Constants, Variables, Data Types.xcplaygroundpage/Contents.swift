@@ -101,10 +101,14 @@ let randomDemand = 1_000_000
  
  */
 // Answer Question 6 below
+//var year = 2017
+let question = "Hello how are you"
+year = question
+
+print("you cant assign a stirng to a integer")
 
 
 /*:
- ### Question 7
  
  Swift is considered to be a *type-safe* language. What does this mean for programmers using the language?
  
